@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\Administrator\Desktop\new\new - 副本 - 副本.PcbDoc
+Date         : 2018/5/13
+Time         : 20:51:47
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 307
+    Connections routed, 307
+    Connections remaining, 0
+count : 4
